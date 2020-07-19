@@ -76,11 +76,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Berhane Temelso"
   avatar           : "profile.png"
   bio              : "HPC computer systems engineer"
   location         : "USA"
-  employer         : "George Mason University"
+  employer         : "GMU"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=berhane+temelso"
   googlescholar    : "https://scholar.google.com/citations?user=Zm3FjWkAAAAJ&hl=en"
   email            : "firstname.lastname@googlesmail.com"
