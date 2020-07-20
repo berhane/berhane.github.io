@@ -78,12 +78,12 @@ analytics:
 author:
   name             : "Berhane Temelso"
   avatar           : "profile.png"
-  bio              : "HPC computer systems engineer"
+  bio              : "HPC sysadmin; computational chemist"
   location         : "USA"
   employer         : "GMU"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=berhane+temelso"
   googlescholar    : "https://scholar.google.com/citations?user=Zm3FjWkAAAAJ&hl=en"
-  email            : "firstname.lastname@googlesmail.com"
+  email            : "<lastname><firstinitial>@<institution>.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-5286-1983"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
