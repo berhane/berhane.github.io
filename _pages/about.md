@@ -12,7 +12,7 @@ redirect_from:
 HPC system administrator; computational chemist   
 Office: Aquia Building  
 Phone: (703) 000-0000  
-Email: [b temelso at gmu dot edu](b temelso at gmu dot edu)
+Email: [address](b temelso at gmu dot edu)
 
 # EDUCATION
 
