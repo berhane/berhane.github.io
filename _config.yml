@@ -81,7 +81,7 @@ author:
   bio              : "HPC sysadmin; computational chemist"
   location         : "USA"
   employer         : "GMU"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=berhane+temelso"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Zm3FjWkAAAAJ&hl=en"
   email            : "b temelso @ gmu .edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -99,7 +99,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5286-1983"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
