@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "News"
-    url: /talks/    
+    url: /news/    
 
   - title: "HPC"
     url: /hpc/
