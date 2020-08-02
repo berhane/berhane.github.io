@@ -17,9 +17,6 @@ author_profile: true
 {% endfor %}
 -->
 
-Publications
-============
-
 *   Water Triggers Hydrogen Bond Network Reshaping in the Glycoaldehyde Dimer  
     C. Perez, A. Steber, B. Temelso, Z. Kisiel, and M. Schnell  
     **Angewandte Chemie** in press (**2020**)  
