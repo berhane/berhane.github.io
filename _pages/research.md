@@ -13,7 +13,7 @@ author_profile: true
 -->
 
 
-## Hydrogen-bonded Molecular Clusters` 
+## Hydrogen-bonded Molecular Clusters
 
 Most of my research involves determining the structure and
 property of molecular clusters held together by hydrogen bonds. Hydrogen bonds are responsible for
