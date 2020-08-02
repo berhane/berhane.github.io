@@ -12,28 +12,28 @@ redirect_from:
 HPC system administrator; computational chemist   
 Office: Aquia Building  
 Phone: (703) 000-0000  
-Email: [address](mailto:btemelso@gmu.edu)
+Email: [address](mailto:btemelso_at_gmu.edu)
 
-# EDUCATION
+## EDUCATION
 
 *   B.A. in Physics from Berea College
 *   Ph.D. in Computational Chemistry from Georgia Institute of Technology
 
-# RESPONSIBILITIES
+## RESPONSIBILITIES
 
-*   Building and managing GMU's high-performance computing (HPC) resources as a system administrator
+*   Building and managing high-performance computing (HPC) resources as a system administrator
 *   Providing technical support on HPC to GMU faculty and students
 *   Facilitating HPC access to national resources like NSF XSEDE as an XSEDE Campus Champion
 
-# RESEARCH INTERESTS
+## RESEARCH INTERESTS
 
-*   Developing tools to study molecular clusters 
+*   Developing tools to study molecular clusters
 *   Computational characterization of hydrogen-bonded molecular clusters
 *   Modeling the nucleation and growth of sulfate aerosols in the atmosphere
 
-# BIO
+## BIO
 
-Dr. Berhane Temelso is computer systems engineer at GMU. Prior to his start at GMU in late July
+Berhane Temelso is computer systems engineer at GMU. Prior to his start at GMU in late July
 2020, he was a senior HPC system adminstrator and facilitator at College of Charleston (CofC). He is
 a computational chemist by training and he has worked as a research scientist and HPC system
 adminsitrator with [George C.
