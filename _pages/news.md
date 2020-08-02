@@ -1,17 +1,3 @@
----
-layout: archive
-title: "News"
-permalink: /news/
-author_profile: true
----
-<!--
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
 # 2020
 
 ### March 24, 2020:
@@ -30,7 +16,6 @@ Our paper on the competition between solvation and aggregation of glycoaldehydes
 I had an enjoyable and productive time visiting friends and colleagues at Furman University. A collaborative [Journal of Visualized Experiments (JoVE)](https://www.jove.com/video/60964/computation-atmospheric-concentrations-molecular-clusters-from-ab) article with Prof. George C. Shields Group will be out in print soon.  
 
 # 2019
-====
 
 ### Nov 17-22, 2019:
 
@@ -55,7 +40,6 @@ Our paper on 15-Crown-5 ether and its complexation with water is out in print [P
 [![PCCP-cover](images/pubs/PCCP-cover-02-14-2019-small.png)]( http://xlink.rsc.org/?DOI=C8CP05552A)
 
 # 2018
-====
 
 ### Nov 30, 2018:
 
@@ -98,7 +82,6 @@ Our paper on the complexity of (H2O)11 strucuture and potential energy surface i
 Our paper on the effect of mixing ammonia and amines on sulfate aerosol formation is out in print at [J. Phys. Chem. A.](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b11236). It was selected as ACS Editors' Choice.
 
 # 2017
-====
 
 ### Nov 07, 2017:
 
@@ -131,7 +114,6 @@ Our paper outlining [ArbAlign](http://www.arbalign.org), a tool for aligning arb
 Dr. Temelso is named as a [2017 Foresight Fellow in Computational Chemistry](http://www.prweb.com/releases/2017/03/prweb14142965.htm).
 
 # 2016
-====
 
 ### Dec 15, 2016:
 
@@ -163,7 +145,6 @@ I attended [the 251st ACS National Meeting](http://www.acs.org/content/acs/en/me
 Our group was awarded 350,000 SU (core-hours) worth of computer time on [NSF's XSEDE facilites](http://www.xsede.org) at the [San Diego Supercomputing Center (SDSC-Comet)](http://www.sdsc.edu/support/user_guides/comet.html) and [Texas Advanced Computing Center (TACC-Stampede)](http://www.tacc.utexas.edu/resources/hpc/stampede).
 
 # 2015
-====
 
 ### Sept 15, 2015:
 
@@ -196,7 +177,6 @@ Our article on "The Importance and Reliability of Small Basis Set CCSD(T) Correc
 Our group was awarded 500,000 SU (core-hours) worth of computer time on [NSF's XSEDE facilites](http://www.xsede.org) at [Texas Advanced Computing Center (TACC-Stampede)](http://www.tacc.utexas.edu/resources/hpc/stampede).
 
 # 2014
-====
 
 ### Oct 27, 2014:
 
@@ -229,7 +209,6 @@ Our group's undergraduate research program gets underway with two Bucknell stude
 Our paper entitled "Structural Analysis of Alpha-Fetoprotein (AFP)-like Peptides with Anti- Breast-Cancer Properties" [got published](http://pubs.acs.org/doi/full/10.1021/jp500017b).
 
 # 2013
-====
 
 ### Oct 01, 2013:
 
@@ -277,7 +256,6 @@ Our group was awarded 500,000 SU (core-hours) worth of computer time on [NSF's X
 Our group was awarded 200,000 SU (core-hours) worth of computer time at [DOE's NERSC facilites](http://www.nersc.gov).
 
 # 2012
-====
 
 ### Oct 08 - 12, 2012:
 
@@ -325,7 +303,6 @@ Our paper entitled "Hydration of the Bisulfate Ion: Atmospheric Implications" [c
 Our paper entitled "Quantum Mechanical Study of Sulfuric Acid Hydration: Atmospheric Implications" [came out in print](http://dx.doi.org/10.1021/jp2119026).
 
 # 2011
-====
 
 ### Oct 29, 2011:
 
@@ -378,7 +355,6 @@ Dr. Temelso attended a [P3 Workshop](http://www.hope.edu/P3/) at Hope College in
 Dr. Shields gave a ["Highlands in Chemistry"](http://www.chem.vt.edu/news/events/seminars/current-highlands-seminars.pdf) seminar at [Virginia Tech](http://www.chem.vt.edu/). Both Drs. Shields and Temelso had meaningful discussions with the chemistry faculty and students at Virginia Tech.
 
 # 2010
-====
 
 ### Dec 01, 2010:
 
@@ -416,7 +392,6 @@ Our group's undergraduate research program gets underway with two AASU students.
 Our group attended the 50th Sanibel Symposium on Quantum Theory on St. Simons Island in February 24th - March 1st, 2010. Kaye Archer '10 presented "Accurate Predictions of the Structure and Energies of Water Decamers" while [Dr. Berhane Temelso](mercuryconsortium.org/furman/members/berhane.php) presented "Benchmark Quality Structures and Energies for Small Water Clusters."
 
 # 2009
-====
 
 ### Oct 20, 2009:
 
