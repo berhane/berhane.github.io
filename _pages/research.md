@@ -12,10 +12,10 @@ author_profile: true
 {% endfor %}
 -->
 
-Research
-========
 
-`Hydrogen-bonded Molecular Clusters` Most of my research involves determining the structure and
+## Hydrogen-bonded Molecular Clusters` 
+
+Most of my research involves determining the structure and
 property of molecular clusters held together by hydrogen bonds. Hydrogen bonds are responsible for
 giving water and biological molecules their unique structure and properites. However, developing a
 water model that can describe all its unusual and crucial properties has proven difficult. We
@@ -33,13 +33,15 @@ Because these molecular clusters are held together by weak and dynamic hydrogen 
 _Figure 2. A protocol to efficiently search a large number of configurations and determine the most stable molecular clusters._  
   
 
-`Structure Alignment` One of the challenges in studying molecular clusters is determining how similar or different isomers are. One recently developed resource is [**ArbAlign**](http://arbalign.org/) which is a web and command line tool to align any two isomers for accurately assessing their similarity.  
+## Structure Alignment 
+One of the challenges in studying molecular clusters is determining how similar or different isomers are. One recently developed resource is [**ArbAlign**](http://arbalign.org/) which is a web and command line tool to align any two isomers for accurately assessing their similarity.  
 [![Cluster Repository](images/research/arbalign.png)](http://arbalign.org)  
   
 _Figure 3. A tool to align any arbitrarily ordered structures efficiently using a Kuhn-Munkres algorithm._  
   
 
-`Molecular Cluster Repository` Another work under development is a [**Molecular Clusters Repository**](http://molecularclusters.xyz/) to compile and share published structures and energies of molecular clusters in a convenient way.  
+## Molecular Cluster Repository
+Another work under development is a [**Molecular Clusters Repository**](http://molecularclusters.xyz/) to compile and share published structures and energies of molecular clusters in a convenient way.  
 [![Cluster Repository](images/research/MolecularClusters.png)](http://molecularclusters.xyz)  
   
 _Figure 4. MolRepo is a repository of molecular clusters' structure and energy. It currently only has results from our own publications, but others can upload their results.
