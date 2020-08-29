@@ -6,15 +6,12 @@ author_profile: true
 ---
 
 # 2020
-
-### March 24, 2020:
-
+### July 27, 2020:
   
-CofC's HPC Forum is scheduled for March 24, 2020 2-3PM. Please join in if you can.  
+I have moved to George Mason University (GMU) in Fairfax, VA to support GMU's expanding research computing infrastructure and services. I am grateful to College of Charleston (CofC) for two impactful years where we were able to establish an HPC cluster as a campus-wide resource. I am especially thankful for people at the Division of Information Technology (IT) and School of Science and Math (SSM) for their contributions to make it all possible.
 
 ### Feb 25, 2020:
 
-  
 Our paper on the competition between solvation and aggregation of glycoaldehydes is published at [Angewandte Chemie International Edition](https://doi.org/10.1002/anie.201914888) as a communication. Big thanks to Dr. Cristobal Perez, Dr. Amanda Steber, Prof. Zbigniew Kisiel and Prof. Melanie Schnell for the enjoyable and rewarding collaboration.  
 
 ### Feb 17-18, 2020:
