@@ -6,6 +6,10 @@ author_profile: true
 
 # 2020
 
+### July 27, 2020:
+  
+I have moved to George Mason University (GMU) in Fairfax, VA to support GMU's expanding research computing infrastructure and services. I am grateful to College of Charleston (CofC) for two impactful years where we were able to establish an HPC cluster as a campus-wide resource. I am especially thankful for people at the Division of Information Technology (IT) and School of Science and Math (SSM) for their contributions to make it all possible.
+
 ### March 24, 2020:
 
   
